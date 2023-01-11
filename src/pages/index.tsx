@@ -1,5 +1,5 @@
-import { useContext } from "react";
-import Head from "next/head";
+//import { useContext } from "react";
+
 import Image from "next/image";
 //import { Inter } from '@next/font/google'
 
